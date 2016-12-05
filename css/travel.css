@@ -1,0 +1,15 @@
+
+#background-size{ 
+background-size:100%; 
+} 
+h1 {
+	font-size: 25pt;font-family: "ＭＳ 明朝";
+}
+p {
+	font-size: 12pt;font-family: "ＭＳ 明朝";
+}
+img {
+	width: 230px;
+	height: 200px;
+	border: 0px;
+}
